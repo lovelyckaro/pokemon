@@ -34,19 +34,11 @@ class Pokemon:
             i -= 1
         pokeId += str(self.id)
         return '#' + pokeId + ', ' + self.name + ' Attributes: ' + self.attribute1 + '/' + self.attribute2 + ', Level: ' + str(self.lvl) + ', Attack: ' + str(self.attack) + ', Defence: ' + str(self.defence)
+#Test shit, not part of class
+
 from random import randint
-
-
-
-
-    
-
 pokemon = Pokemon(randint(1,151))
-
-
-
 pokemon.lvlup()
-
 print(pokemon.getInfo())
 
 
