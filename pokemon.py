@@ -10,13 +10,23 @@ class Pokemon:
         self.name = line[3]
         self.lvl = 1
         self.experience = 0
-        self.attack = line[6]
-        self.hp = line[5]
-        self.defence = line[7]
         self.attribute1 = attributes[0]
-        self.spAttack = line[8]
-        self.spDefence = line[9]
-        self.speed = line[10]
+        
+        self.baseAttack = line[6]
+        self.baseHp = line[5]
+        self.baseDefence = line[7]
+        self.baseSpAttack = line[8]
+        self.baseSpDefence = line[9]
+        self.baseSpeed = line[10]
+
+        grejer = 1
+
+        self.attack = self.baseAttack * grejer
+        self.hp = self.baseHp * grejer
+        self.defence = self.baseAttack * grejer
+        self.spAttack = self.baseSpAttack * grejer
+        self.spDefence = self.baseSpDefence * grejer
+        self.speed = self.baseSpeed * grejer
         
         if len(attributes) > 1:
             self.attribute2 = attributes[1]
@@ -33,7 +43,13 @@ class Pokemon:
             pokeId += '0'
             i -= 1
         pokeId += str(self.id)
-        return '#' + pokeId + ', ' + self.name + ' Attributes: ' + self.attribute1 + '/' + self.attribute2 + ', Level: ' + str(self.lvl) + ', Attack: ' + str(self.attack) + ', Defence: ' + str(self.defence)
+        
+        if self.attribute2 != '':
+            attributes = self.attribute1 + '/' + self.attribute2
+        else:
+            attributes = self.attribute1
+            
+        return '#' + pokeId + ', ' + self.name + '\nAttributes: ' + attributes + '\nLevel: ' + str(self.lvl) + '\nAttack: ' + str(self.attack) + '\nDefence: ' + str(self.defence) + '\nSpecial attack: ' + str(self.spAttack) + '\nSpecial defence: ' + str(self.spDefence) + '\nSpeed: ' + self.speed
 #Test shit, not part of class
 
 from random import randint
