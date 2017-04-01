@@ -1,12 +1,12 @@
 class Pokemon:
-    def __init__(self, pokeId = 0):
-        pokemonlista = open('pokemonlista.txt',"r")
-        line = pokemonlista.readlines()[pokeId].split()
-        pokemonlista.close
+    
+    def __init__(self, lines, pokeId):
+        line = lines[pokeId].split()
+
 
         attributes = line[4].split("/")
         
-        self.id = pokeId
+        self.id = line[1]
         self.name = line[3]
         self.lvl = 1
         self.experience = 0
@@ -49,13 +49,29 @@ class Pokemon:
         else:
             attributes = self.attribute1
             
-        return '#' + pokeId + ', ' + self.name + '\nAttributes: ' + attributes + '\nLevel: ' + str(self.lvl) + '\nAttack: ' + str(self.attack) + '\nDefence: ' + str(self.defence) + '\nSpecial attack: ' + str(self.spAttack) + '\nSpecial defence: ' + str(self.spDefence) + '\nSpeed: ' + self.speed
+        return pokeId + ', ' + self.name + '\nAttributes: ' + attributes + '\nLevel: ' + str(self.lvl) + '\nAttack: ' + str(self.attack) + '\nDefence: ' + str(self.defence) + '\nSpecial attack: ' + str(self.spAttack) + '\nSpecial defence: ' + str(self.spDefence) + '\nSpeed: ' + self.speed
+
+    def rename(self, name):
+        self.name = name
+
+    def evolve(self, lines):
+        pokeId = int(self.id[:1]) - 1
+        
+
+        
+        
+
 #Test shit, not part of class
 
 from random import randint
-pokemon = Pokemon(randint(1,151))
+pokemonlista = open('pokemonlista.txt',"r")
+lines = pokemonlista.readlines()
+pokemonlista.close()
+
+pokemon = Pokemon(lines, randint(1,151))
 pokemon.lvlup()
 print(pokemon.getInfo())
+
 
 
         

@@ -1,0 +1,564 @@
+<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Bulbasaur" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/bulbasaur.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/bulbasaur" title="View pokedex for #001 Bulbasaur">Bulbasaur</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Ivysaur" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/ivysaur.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/ivysaur" title="View pokedex for #002 Ivysaur">Ivysaur</a></span></span>
+</td> 
+			<td class="num">16</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Ivysaur" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/ivysaur.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/ivysaur" title="View pokedex for #002 Ivysaur">Ivysaur</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Venusaur" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/venusaur.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/venusaur" title="View pokedex for #003 Venusaur">Venusaur</a></span></span>
+</td> 
+			<td class="num">32</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Charmander" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/charmander.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/charmander" title="View pokedex for #004 Charmander">Charmander</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Charmeleon" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/charmeleon.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/charmeleon" title="View pokedex for #005 Charmeleon">Charmeleon</a></span></span>
+</td> 
+			<td class="num">16</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Charmeleon" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/charmeleon.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/charmeleon" title="View pokedex for #005 Charmeleon">Charmeleon</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Charizard" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/charizard.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/charizard" title="View pokedex for #006 Charizard">Charizard</a></span></span>
+</td> 
+			<td class="num">36</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Squirtle" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/squirtle.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/squirtle" title="View pokedex for #007 Squirtle">Squirtle</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Wartortle" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/wartortle.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/wartortle" title="View pokedex for #008 Wartortle">Wartortle</a></span></span>
+</td> 
+			<td class="num">16</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Wartortle" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/wartortle.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/wartortle" title="View pokedex for #008 Wartortle">Wartortle</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Blastoise" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/blastoise.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/blastoise" title="View pokedex for #009 Blastoise">Blastoise</a></span></span>
+</td> 
+			<td class="num">36</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Caterpie" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/caterpie.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/caterpie" title="View pokedex for #010 Caterpie">Caterpie</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Metapod" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/metapod.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/metapod" title="View pokedex for #011 Metapod">Metapod</a></span></span>
+</td> 
+			<td class="num">7</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Metapod" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/metapod.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/metapod" title="View pokedex for #011 Metapod">Metapod</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Butterfree" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/butterfree.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/butterfree" title="View pokedex for #012 Butterfree">Butterfree</a></span></span>
+</td> 
+			<td class="num">10</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Weedle" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/weedle.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/weedle" title="View pokedex for #013 Weedle">Weedle</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Kakuna" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/kakuna.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/kakuna" title="View pokedex for #014 Kakuna">Kakuna</a></span></span>
+</td> 
+			<td class="num">7</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Kakuna" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/kakuna.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/kakuna" title="View pokedex for #014 Kakuna">Kakuna</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Beedrill" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/beedrill.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/beedrill" title="View pokedex for #015 Beedrill">Beedrill</a></span></span>
+</td> 
+			<td class="num">10</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Pidgey" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/pidgey.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/pidgey" title="View pokedex for #016 Pidgey">Pidgey</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Pidgeotto" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/pidgeotto.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/pidgeotto" title="View pokedex for #017 Pidgeotto">Pidgeotto</a></span></span>
+</td> 
+			<td class="num">18</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Pidgeotto" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/pidgeotto.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/pidgeotto" title="View pokedex for #017 Pidgeotto">Pidgeotto</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Pidgeot" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/pidgeot.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/pidgeot" title="View pokedex for #018 Pidgeot">Pidgeot</a></span></span>
+</td> 
+			<td class="num">36</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Rattata" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/rattata.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/rattata" title="View pokedex for #019 Rattata">Rattata</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Raticate" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/raticate.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/raticate" title="View pokedex for #020 Raticate">Raticate</a></span></span>
+</td> 
+			<td class="num">20</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Alolan Rattata" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/rattata-alolan.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/rattata" title="View pokedex for #019 Rattata">Rattata</a><br><small class="aside">Alolan Rattata</small></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Alolan Raticate" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/raticate-alolan.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/raticate" title="View pokedex for #020 Raticate">Raticate</a><br><small class="aside">Alolan Raticate</small></span></span>
+</td> 
+			<td class="num">20</td>
+			<td class="long-text">Nighttime, in Alola</td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Spearow" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/spearow.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/spearow" title="View pokedex for #021 Spearow">Spearow</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Fearow" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/fearow.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/fearow" title="View pokedex for #022 Fearow">Fearow</a></span></span>
+</td> 
+			<td class="num">20</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Ekans" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/ekans.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/ekans" title="View pokedex for #023 Ekans">Ekans</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Arbok" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/arbok.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/arbok" title="View pokedex for #024 Arbok">Arbok</a></span></span>
+</td> 
+			<td class="num">22</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Sandshrew" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/sandshrew.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/sandshrew" title="View pokedex for #027 Sandshrew">Sandshrew</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Sandslash" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/sandslash.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/sandslash" title="View pokedex for #028 Sandslash">Sandslash</a></span></span>
+</td> 
+			<td class="num">22</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Nidoran♀" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/nidoran-f.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/nidoran-f" title="View pokedex for #029 Nidoran♀">Nidoran♀</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Nidorina" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/nidorina.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/nidorina" title="View pokedex for #030 Nidorina">Nidorina</a></span></span>
+</td> 
+			<td class="num">16</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Nidoran♂" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/nidoran-m.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/nidoran-m" title="View pokedex for #032 Nidoran♂">Nidoran♂</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Nidorino" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/nidorino.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/nidorino" title="View pokedex for #033 Nidorino">Nidorino</a></span></span>
+</td> 
+			<td class="num">16</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Zubat" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/zubat.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/zubat" title="View pokedex for #041 Zubat">Zubat</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Golbat" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/golbat.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/golbat" title="View pokedex for #042 Golbat">Golbat</a></span></span>
+</td> 
+			<td class="num">22</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Oddish" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/oddish.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/oddish" title="View pokedex for #043 Oddish">Oddish</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Gloom" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/gloom.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/gloom" title="View pokedex for #044 Gloom">Gloom</a></span></span>
+</td> 
+			<td class="num">21</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Paras" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/paras.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/paras" title="View pokedex for #046 Paras">Paras</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Parasect" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/parasect.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/parasect" title="View pokedex for #047 Parasect">Parasect</a></span></span>
+</td> 
+			<td class="num">24</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Venonat" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/venonat.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/venonat" title="View pokedex for #048 Venonat">Venonat</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Venomoth" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/venomoth.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/venomoth" title="View pokedex for #049 Venomoth">Venomoth</a></span></span>
+</td> 
+			<td class="num">31</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Diglett" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/diglett.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/diglett" title="View pokedex for #050 Diglett">Diglett</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Dugtrio" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/dugtrio.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/dugtrio" title="View pokedex for #051 Dugtrio">Dugtrio</a></span></span>
+</td> 
+			<td class="num">26</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Alolan Diglett" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/diglett-alolan.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/diglett" title="View pokedex for #050 Diglett">Diglett</a><br><small class="aside">Alolan Diglett</small></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Alolan Dugtrio" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/dugtrio-alolan.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/dugtrio" title="View pokedex for #051 Dugtrio">Dugtrio</a><br><small class="aside">Alolan Dugtrio</small></span></span>
+</td> 
+			<td class="num">26</td>
+			<td class="long-text">in Alola</td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Meowth" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/meowth.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/meowth" title="View pokedex for #052 Meowth">Meowth</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Persian" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/persian.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/persian" title="View pokedex for #053 Persian">Persian</a></span></span>
+</td> 
+			<td class="num">28</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Psyduck" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/psyduck.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/psyduck" title="View pokedex for #054 Psyduck">Psyduck</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Golduck" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/golduck.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/golduck" title="View pokedex for #055 Golduck">Golduck</a></span></span>
+</td> 
+			<td class="num">33</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Mankey" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/mankey.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/mankey" title="View pokedex for #056 Mankey">Mankey</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Primeape" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/primeape.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/primeape" title="View pokedex for #057 Primeape">Primeape</a></span></span>
+</td> 
+			<td class="num">28</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Poliwag" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/poliwag.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/poliwag" title="View pokedex for #060 Poliwag">Poliwag</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Poliwhirl" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/poliwhirl.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/poliwhirl" title="View pokedex for #061 Poliwhirl">Poliwhirl</a></span></span>
+</td> 
+			<td class="num">25</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Abra" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/abra.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/abra" title="View pokedex for #063 Abra">Abra</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Kadabra" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/kadabra.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/kadabra" title="View pokedex for #064 Kadabra">Kadabra</a></span></span>
+</td> 
+			<td class="num">16</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Machop" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/machop.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/machop" title="View pokedex for #066 Machop">Machop</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Machoke" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/machoke.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/machoke" title="View pokedex for #067 Machoke">Machoke</a></span></span>
+</td> 
+			<td class="num">28</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Bellsprout" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/bellsprout.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/bellsprout" title="View pokedex for #069 Bellsprout">Bellsprout</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Weepinbell" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/weepinbell.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/weepinbell" title="View pokedex for #070 Weepinbell">Weepinbell</a></span></span>
+</td> 
+			<td class="num">21</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Tentacool" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/tentacool.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/tentacool" title="View pokedex for #072 Tentacool">Tentacool</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Tentacruel" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/tentacruel.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/tentacruel" title="View pokedex for #073 Tentacruel">Tentacruel</a></span></span>
+</td> 
+			<td class="num">30</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Geodude" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/geodude.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/geodude" title="View pokedex for #074 Geodude">Geodude</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Graveler" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/graveler.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/graveler" title="View pokedex for #075 Graveler">Graveler</a></span></span>
+</td> 
+			<td class="num">25</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Alolan Geodude" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/geodude-alolan.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/geodude" title="View pokedex for #074 Geodude">Geodude</a><br><small class="aside">Alolan Geodude</small></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Alolan Graveler" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/graveler-alolan.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/graveler" title="View pokedex for #075 Graveler">Graveler</a><br><small class="aside">Alolan Graveler</small></span></span>
+</td> 
+			<td class="num">25</td>
+			<td class="long-text">in Alola</td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Ponyta" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/ponyta.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/ponyta" title="View pokedex for #077 Ponyta">Ponyta</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Rapidash" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/rapidash.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/rapidash" title="View pokedex for #078 Rapidash">Rapidash</a></span></span>
+</td> 
+			<td class="num">40</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Slowpoke" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/slowpoke.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/slowpoke" title="View pokedex for #079 Slowpoke">Slowpoke</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Slowbro" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/slowbro.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/slowbro" title="View pokedex for #080 Slowbro">Slowbro</a></span></span>
+</td> 
+			<td class="num">37</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Magnemite" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/magnemite.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/magnemite" title="View pokedex for #081 Magnemite">Magnemite</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Magneton" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/magneton.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/magneton" title="View pokedex for #082 Magneton">Magneton</a></span></span>
+</td> 
+			<td class="num">30</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Doduo" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/doduo.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/doduo" title="View pokedex for #084 Doduo">Doduo</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Dodrio" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/dodrio.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/dodrio" title="View pokedex for #085 Dodrio">Dodrio</a></span></span>
+</td> 
+			<td class="num">31</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Seel" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/seel.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/seel" title="View pokedex for #086 Seel">Seel</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Dewgong" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/dewgong.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/dewgong" title="View pokedex for #087 Dewgong">Dewgong</a></span></span>
+</td> 
+			<td class="num">34</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Grimer" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/grimer.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/grimer" title="View pokedex for #088 Grimer">Grimer</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Muk" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/muk.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/muk" title="View pokedex for #089 Muk">Muk</a></span></span>
+</td> 
+			<td class="num">38</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Alolan Grimer" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/grimer-alolan.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/grimer" title="View pokedex for #088 Grimer">Grimer</a><br><small class="aside">Alolan Grimer</small></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Alolan Muk" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/muk-alolan.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/muk" title="View pokedex for #089 Muk">Muk</a><br><small class="aside">Alolan Muk</small></span></span>
+</td> 
+			<td class="num">38</td>
+			<td class="long-text">in Alola</td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Gastly" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/gastly.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/gastly" title="View pokedex for #092 Gastly">Gastly</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Haunter" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/haunter.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/haunter" title="View pokedex for #093 Haunter">Haunter</a></span></span>
+</td> 
+			<td class="num">25</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Drowzee" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/drowzee.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/drowzee" title="View pokedex for #096 Drowzee">Drowzee</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Hypno" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/hypno.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/hypno" title="View pokedex for #097 Hypno">Hypno</a></span></span>
+</td> 
+			<td class="num">26</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Krabby" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/krabby.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/krabby" title="View pokedex for #098 Krabby">Krabby</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Kingler" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/kingler.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/kingler" title="View pokedex for #099 Kingler">Kingler</a></span></span>
+</td> 
+			<td class="num">28</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Voltorb" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/voltorb.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/voltorb" title="View pokedex for #100 Voltorb">Voltorb</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Electrode" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/electrode.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/electrode" title="View pokedex for #101 Electrode">Electrode</a></span></span>
+</td> 
+			<td class="num">30</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Cubone" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/cubone.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/cubone" title="View pokedex for #104 Cubone">Cubone</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Marowak" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/marowak.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/marowak" title="View pokedex for #105 Marowak">Marowak</a></span></span>
+</td> 
+			<td class="num">28</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Cubone" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/cubone.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/cubone" title="View pokedex for #104 Cubone">Cubone</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Alolan Marowak" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/marowak-alolan.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/marowak" title="View pokedex for #105 Marowak">Marowak</a><br><small class="aside">Alolan Marowak</small></span></span>
+</td> 
+			<td class="num">28</td>
+			<td class="long-text">Nighttime, in Alola</td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Tyrogue" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/tyrogue.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/tyrogue" title="View pokedex for #236 Tyrogue">Tyrogue</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Hitmonlee" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/hitmonlee.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/hitmonlee" title="View pokedex for #106 Hitmonlee">Hitmonlee</a></span></span>
+</td> 
+			<td class="num">20</td>
+			<td class="long-text">Attack > Defense</td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Tyrogue" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/tyrogue.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/tyrogue" title="View pokedex for #236 Tyrogue">Tyrogue</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Hitmonchan" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/hitmonchan.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/hitmonchan" title="View pokedex for #107 Hitmonchan">Hitmonchan</a></span></span>
+</td> 
+			<td class="num">20</td>
+			<td class="long-text">Attack < Defense</td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Tyrogue" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/tyrogue.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/tyrogue" title="View pokedex for #236 Tyrogue">Tyrogue</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Hitmontop" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/hitmontop.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/hitmontop" title="View pokedex for #237 Hitmontop">Hitmontop</a></span></span>
+</td> 
+			<td class="num">20</td>
+			<td class="long-text">Attack = Defense</td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Koffing" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/koffing.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/koffing" title="View pokedex for #109 Koffing">Koffing</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Weezing" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/weezing.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/weezing" title="View pokedex for #110 Weezing">Weezing</a></span></span>
+</td> 
+			<td class="num">35</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Rhyhorn" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/rhyhorn.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/rhyhorn" title="View pokedex for #111 Rhyhorn">Rhyhorn</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Rhydon" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/rhydon.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/rhydon" title="View pokedex for #112 Rhydon">Rhydon</a></span></span>
+</td> 
+			<td class="num">42</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Horsea" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/horsea.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/horsea" title="View pokedex for #116 Horsea">Horsea</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Seadra" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/seadra.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/seadra" title="View pokedex for #117 Seadra">Seadra</a></span></span>
+</td> 
+			<td class="num">32</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Goldeen" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/goldeen.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/goldeen" title="View pokedex for #118 Goldeen">Goldeen</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Seaking" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/seaking.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/seaking" title="View pokedex for #119 Seaking">Seaking</a></span></span>
+</td> 
+			<td class="num">33</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Smoochum" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/smoochum.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/smoochum" title="View pokedex for #238 Smoochum">Smoochum</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Jynx" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/jynx.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/jynx" title="View pokedex for #124 Jynx">Jynx</a></span></span>
+</td> 
+			<td class="num">30</td>
+			<td class="long-text">balle</td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Elekid" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/elekid.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/elekid" title="View pokedex for #239 Elekid">Elekid</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Electabuzz" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/electabuzz.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/electabuzz" title="View pokedex for #125 Electabuzz">Electabuzz</a></span></span>
+</td> 
+			<td class="num">30</td>
+			<td class="long-text">balle</td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Magby" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/magby.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/magby" title="View pokedex for #240 Magby">Magby</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Magmar" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/magmar.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/magmar" title="View pokedex for #126 Magmar">Magmar</a></span></span>
+</td> 
+			<td class="num">30</td>
+			<td class="long-text">balle</td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Magikarp" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/magikarp.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/magikarp" title="View pokedex for #129 Magikarp">Magikarp</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Gyarados" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/gyarados.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/gyarados" title="View pokedex for #130 Gyarados">Gyarados</a></span></span>
+</td> 
+			<td class="num">20</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Omanyte" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/omanyte.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/omanyte" title="View pokedex for #138 Omanyte">Omanyte</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Omastar" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/omastar.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/omastar" title="View pokedex for #139 Omastar">Omastar</a></span></span>
+</td> 
+			<td class="num">40</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Kabuto" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/kabuto.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/kabuto" title="View pokedex for #140 Kabuto">Kabuto</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Kabutops" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/kabutops.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/kabutops" title="View pokedex for #141 Kabutops">Kabutops</a></span></span>
+</td> 
+			<td class="num">40</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Dratini" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/dratini.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/dratini" title="View pokedex for #147 Dratini">Dratini</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Dragonair" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/dragonair.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/dragonair" title="View pokedex for #148 Dragonair">Dragonair</a></span></span>
+</td> 
+			<td class="num">30</td>
+			<td class="long-text"></td>
+		</tr>
+				<tr>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Dragonair" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/dragonair.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/dragonair" title="View pokedex for #148 Dragonair">Dragonair</a></span></span>
+</td> 
+			<td>&#8594;</td>
+			<td class="cell-icon-string"><span class="cell-infocard"><span class="infocard-img"><img class="sprite-icon lazyload" src="https://img.pokemondb.net/s.png" width="40" height="30" alt="Dragonite" data-original="https://img.pokemondb.net/sprites/sun-moon/icon/dragonite.png"></span><span class="infocard-data"><a class="ent-name" href="/pokedex/dragonite" title="View pokedex for #149 Dragonite">Dragonite</a></span></span>
+</td> 
