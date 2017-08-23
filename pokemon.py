@@ -3,11 +3,11 @@ class Pokemon:
     def __init__(self, lines, pokeId):
         line = lines[pokeId].split()
 
-
         attributes = line[4].split("/")
         
         self.id = line[1]
         self.name = line[3]
+        self.renamed = False
         self.lvl = 1
         self.experience = 0
         self.attribute1 = attributes[0]
@@ -18,6 +18,64 @@ class Pokemon:
         self.baseSpAttack = line[8]
         self.baseSpDefence = line[9]
         self.baseSpeed = line[10]
+
+        if len(line) > 12:
+            self.evolutionLevel = line[12]
+            self.evolutionTarget = line[13]
+        else:
+            evolutionLevel = ''
+            evolutionTarget = ''
+
+        grejer = 1
+
+        self.attack = self.baseAttack * grejer
+        self.hp = self.baseHp * grejer
+        self.defence = self.baseAttack * grejer
+        self.spAttack = self.baseSpAttack * grejer
+        self.spDefence = self.baseSpDefence * grejer
+        self.speed = self.baseSpeed * grejer
+        
+        if len(attributes) > 1:
+            self.attribute2 = attributes[1]
+        else:
+            self.attribute2 = ''
+
+
+    def __init__(self, lines, name):
+        i = 0
+        for line in lines:
+            if line.split()[0] == name.lower():
+                break
+            elif i >= 151:
+                i = 1
+            else:
+                i += 1
+            
+            
+        
+        line = lines[i].split()
+
+        attributes = line[4].split("/")
+        
+        self.id = line[1]
+        self.name = line[3]
+        self.lvl = 1
+        self.experience = 0
+        self.attribute1 = attributes[0]
+        self.renamed = False
+        
+        self.baseAttack = line[6]
+        self.baseHp = line[5]
+        self.baseDefence = line[7]
+        self.baseSpAttack = line[8]
+        self.baseSpDefence = line[9]
+        self.baseSpeed = line[10]
+        if len(line) > 12:
+            self.evolutionLevel = line[12]
+            self.evolutionTarget = line[13]
+        else:
+            self.evolutionLevel = ''
+            self.evolutionTarget = ''
 
         grejer = 1
 
@@ -53,12 +111,45 @@ class Pokemon:
 
     def rename(self, name):
         self.name = name
+        self.renamed = True
 
-    def evolve(self, lines):
-        pokeId = int(self.id[:1]) - 1
+    def evolve(self,lines):
+        if self.evolutionTarget != '':
+            line = lines[int(self.evolutionTarget)].split()
+            attributes = line[4].split('/')
+                
+            self.id = line[1]
+            if self.renamed == False:
+                self.name = line[3]
+            self.lvl = 1
+            self.experience = 0
+            self.attribute1 = attributes[0]
+            if len(attributes) > 1:
+                self.attribute2 = attributes[1]
         
-
+            self.baseAttack = line[6]
+            self.baseHp = line[5]
+            self.baseDefence = line[7]
+            self.baseSpAttack = line[8]
+            self.baseSpDefence = line[9]
+            self.baseSpeed = line[10]
+            if len(line) > 12:
+                self.evolutionLevel = line[12]
+                self.evolutionTarget = line[13]
+            else:
+                self.evolutionLevel = ''
+                self.evolutionTarget = ''
         
+            grejer = 1
+        
+            self.attack = self.baseAttack * grejer
+            self.hp = self.baseHp * grejer
+            self.defence = self.baseAttack * grejer
+            self.spAttack = self.baseSpAttack * grejer
+            self.spDefence = self.baseSpDefence * grejer
+            self.speed = self.baseSpeed * grejer
+        else:
+            print('Pokemon cannot evolve')
         
 
 #Test shit, not part of class
@@ -68,9 +159,14 @@ pokemonlista = open('pokemonlista.txt',"r")
 lines = pokemonlista.readlines()
 pokemonlista.close()
 
-pokemon = Pokemon(lines, randint(1,151))
-pokemon.lvlup()
-print(pokemon.getInfo())
+while True:
+    pokemon = Pokemon(lines,input('Skriv en pokemon: '))
+    pokemon.evolve(lines)
+    print(pokemon.getInfo())
+    
+    
+
+
 
 
 

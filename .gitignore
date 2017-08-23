@@ -87,3 +87,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+.DS_Store
+Old unused shit/.DS_Store
